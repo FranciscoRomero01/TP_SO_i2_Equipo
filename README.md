@@ -1,2 +1,2 @@
 # TP_SO_i2_Equipo
-Segundo TP de AyST
+Segundo TP de AySO
