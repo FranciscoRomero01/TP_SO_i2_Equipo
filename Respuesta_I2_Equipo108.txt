@@ -1,6 +1,6 @@
-a.
+a.lo que hice fue poner el "git commit -m" y luego despues de ese comando puso el "git push" para que se suba las modificaciones
 
-b.
+b.Si, ALFA puede actualizar su for al estado del fork de GAMMA
 
 c.
 
