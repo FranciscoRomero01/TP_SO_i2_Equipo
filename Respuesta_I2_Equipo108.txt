@@ -1,9 +1,9 @@
 a.lo que hice fue poner el "git commit -m" y luego despues de ese comando puso el "git push" para que se suba las modificaciones
 
-b.Si, ALFA puede actualizar su for al estado del fork de GAMMA
+b.Si, ALFA puede actualizar su fork al estado del fork de GAMMA
 
-c.
+c.Si, si puede GAMMA actulizar su Fork al estado de ALFA.
 
-d.
+d.Si se agrega un nuevo documento no. Si se modifica el mismo archivo GIT te avisa.
 
 e.
